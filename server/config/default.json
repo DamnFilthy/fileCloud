@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://admin:a2b9VyttRPr5hdCy@filecloud.085ad.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "Super-Secret-Key-123"
+}
